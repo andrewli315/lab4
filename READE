@@ -1,0 +1,12 @@
+1. 
+	the nm show the two functions that the flag is different.
+	the first average function is averagePdRd, which means the two parameters are pointer and reference.
+	the second average function is averageif, which means the parameters are integer and float.
+2.
+	the size of different variable type is different.
+	char: 1 byte
+	int: 4 byte
+	float: 4 byte
+	double: 8 byte
+	however, the pointer of different type is the same, because the pointer is declare the memory. 
+	Therefore, the magnitude of pointer is depend on the computer which is 32 bits or 64 bits.
